@@ -1,0 +1,15 @@
+.border-box-full-width{
+    width: 100%;
+    border: 1px solid black;
+    margin: 5px 0;
+    box-sizing: border-box;
+}
+.text-padding {
+    padding: 0 10px;
+}
+.center-item {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}

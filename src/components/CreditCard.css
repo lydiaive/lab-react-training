@@ -1,0 +1,29 @@
+
+.creditcard {
+    height: 190px;
+    width: 350px;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 10px;
+    border-radius: 10px;
+}
+.creditcard-type {
+    display: flex;
+    justify-content: flex-end;
+}
+.creditcard-logo {
+    height: 20px;
+}
+.creditcard-number {
+    width: 100%;
+    text-align: center;
+    font-size: 32px;
+}
+.date-name-contianer {
+    display: flex;
+    gap: 20px;
+}
+.creditcard-footer  p {
+    margin: 0;
+    line-height: 24px;
+}

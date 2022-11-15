@@ -1,0 +1,27 @@
+
+.flex-start {
+    display: flex;
+}
+.user-img-container {
+    height: 100%;
+    width: 155px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+.user-img {
+    min-height:100%; 
+    min-width: 100%; 
+    object-fit: cover;
+}
+.user-content {
+
+}
+.user-content p {
+    font-weight: bold;
+    margin: 10px 20px
+}
+.user-content span {
+    font-weight: lighter;
+}
